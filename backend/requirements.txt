@@ -1,0 +1,12 @@
+Flask
+Flask-CORS
+numpy
+opencv-python
+faiss-cpu
+insightface==0.7.2
+onnxruntime
+onnx
+scikit-image
+scipy
+easydict
+firebase-admin 
