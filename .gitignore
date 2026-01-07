@@ -1,0 +1,12 @@
+# .gitignore (Example Content)
+# --- Dependencies and Compiled Output ---
+/backend/venv/
+/frontend/node_modules/
+/frontend/.next/
+/frontend/out/
+
+# --- Secrets and Derived Data ---
+*.json                  # Excludes adminsdk.json
+*.npy
+*.faiss
+.env

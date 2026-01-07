@@ -1,4 +1,3 @@
-// frontend/src/app/login/page.tsx (Updated Redirection Logic)
 "use client";
 import React, { useState, ChangeEvent, FormEvent } from 'react'; // Added ChangeEvent and FormEvent
 import { useRouter } from 'next/navigation';
